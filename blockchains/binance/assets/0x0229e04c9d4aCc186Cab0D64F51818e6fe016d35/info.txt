@@ -1,0 +1,10 @@
+    "name": "BrummusCoin",
+    "website": "https://brummuscoin.com",
+    "description": "BrummusCoin is a community driven coin.",
+    "explorer": "https://bscscan.com/token/0x0229e04c9d4acc186cab0d64f51818e6fe016d35?a=0xc12C739DDcbdd8391f480401D015A4B8C1B043bc",
+    "type": "BEP20",
+    "symbol": "BMC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0229e04c9d4aCc186Cab0D64F51818e6fe016d35"
+}
